@@ -234,7 +234,7 @@ In this awesome list, we have meticulously compiled a range of resources, includ
 - [Yannic Kilcher Videos (Audio Only) | Podcast on Spotify](https://open.spotify.com/show/6cHS7bXU2JPLTgjA0z0xNz): Yannic Kilcher discusses machine learning research papers, programming, and the broader impact of AI in society.
 - [LessWrong Curated Podcast | Podcast on Spotify](https://open.spotify.com/show/7vqBzO0ejqiLiXyTECEeBY): Audio version of the posts shared in the LessWrong Curated newsletter.
 - [SAI: The Security and AI Podcast on Apple Podcasts](https://podcasts.apple.com/il/podcast/sai-the-security-and-ai-podcast/id1690378369): An episode focused on OpenAI's cybersecurity grant program.
-- [Chain of Thought: How Intercom Cut $250K/Month by Ditching GPT for Qwen](https://chainofthought.show/podcast/49-how-intercom-cut-250k-month-by-ditching-gpt-for-qwen/): Intercom's Chief AI Officer Fergal Reid explains replacing a GPT summarization task with a fine-tuned 14B-parameter Qwen model, and how the team now chooses between fine-tuning open-weight models and frontier APIs.
+- [Chain of Thought: How Intercom Cut $250K/Month by Ditching GPT for Qwen](https://chainofthought.show/podcast/49-how-intercom-cut-250k-month-by-ditching-gpt-for-qwen/): Intercom's Chief AI Officer Fergal Reid explains replacing GPT-4.1 for query canonicalization with a fine-tuned 14B-parameter Qwen 3 model, and how the team chooses between fine-tuning open-weight models and frontier APIs.
 
 ---
 
